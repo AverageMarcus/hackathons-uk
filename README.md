@@ -9,6 +9,7 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | **January** |
 | [HACKING HAPPINESS](https://www.digitalcatapultcentre.org.uk/event/hacking-happiness) | 16th - 17th | London |
 | [Future Health Product Forge](https://productforge.io/events/future-health-product-forge) | 19th - 22nd | Edinburgh |
+| [IoT hackathon](http://www.iottechexpo.com/europe/exhibition/iot-hackathon/) | 23 - 24 | London |
 | [NHS Hack Day](http://nhshackday.com/) | 28th - 29th | Cardiff |
 | **February** |
 | [Accessible Tech Hackathon](http://accessibletech.co.uk/hackathon ) | | London |
