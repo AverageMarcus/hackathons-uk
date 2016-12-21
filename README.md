@@ -9,7 +9,7 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | **January** |
 | [HACKING HAPPINESS](https://www.digitalcatapultcentre.org.uk/event/hacking-happiness) | 16th - 17th | London |
 | [Future Health Product Forge](https://productforge.io/events/future-health-product-forge) | 19th - 22nd | Edinburgh |
-| [Global Game Jam](http://globalgamejam.org/2017/jam-sites/dundee-makerspace) | 20 - 22 | Dundee, [City, University of London](http://bit.ly/cityggj) |
+| [Global Game Jam](http://globalgamejam.org/) | 20 - 22 | Dundee, London |
 | [IoT hackathon](http://www.iottechexpo.com/europe/exhibition/iot-hackathon/) | 23 - 24 | London |
 | [NHS Hack Day](http://nhshackday.com/) | 28th - 29th | Cardiff |
 | **February** |
