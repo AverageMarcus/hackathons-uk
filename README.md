@@ -13,6 +13,7 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | [IoT hackathon](http://www.iottechexpo.com/europe/exhibition/iot-hackathon/) | 23 - 24 | London |
 | [NHS Hack Day](http://nhshackday.com/) | 28th - 29th | Cardiff |
 | **February** |
+| [Ulster Bank Hackathon](https://www.eventbrite.co.uk/e/ulster-bank-hackathon-dublin-tickets-29486640335) | 17 - 19 | Dublin |
 | [Kopfadeyemi Challenge 2017](https://www.eventbrite.com/e/kopfadeyemi-challenge-2017-registration-29466212234) | 24 - 26 | London |
 | [Accessible Tech Hackathon](http://accessibletech.co.uk/hackathon ) | | London |
 | **March** |
