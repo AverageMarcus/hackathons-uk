@@ -7,6 +7,7 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | Event | Date | Location |
 |---|---|---|
 | **January** |
+| [GDG Hackathon 3](https://www.eventbrite.com/e/gdg-hackathon-3-for-developers-by-developers-tickets-29785768034) | 14th | London |
 | [HACKING HAPPINESS](https://www.digitalcatapultcentre.org.uk/event/hacking-happiness) | 16th - 17th | London |
 | [Future Health Product Forge](https://productforge.io/events/future-health-product-forge) | 19th - 22nd | Edinburgh |
 | [Global Game Jam](http://globalgamejam.org/) | 20 - 22 | Multiple |
