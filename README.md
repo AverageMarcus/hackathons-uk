@@ -18,6 +18,7 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | [Kopfadeyemi Challenge 2017](https://www.eventbrite.com/e/kopfadeyemi-challenge-2017-registration-29466212234) | 24th - 26th | London |
 | [Accessible Tech Hackathon](http://accessibletech.co.uk/hackathon ) | | London |
 | **March** |
+| [TravelSpirit Hackout](http://travelspirit.foundation/) | 17th - 19th | Manchester|
 | [Hack24](http://www.hack24.co.uk/) | 18th - 19th | Nottingham |
 | **April** |
 | [UKGovHack](http://ukgovhack.com) | | London |
