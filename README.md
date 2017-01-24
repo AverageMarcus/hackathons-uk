@@ -16,6 +16,7 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | **February** |
 | [Ulster Bank Hackathon](https://www.eventbrite.co.uk/e/ulster-bank-hackathon-dublin-tickets-29486640335) | 17th - 19th | Dublin |
 | [Kopfadeyemi Challenge 2017](https://www.eventbrite.com/e/kopfadeyemi-challenge-2017-registration-29466212234) | 24th - 26th | London |
+| [AirHack](https://odileeds.org/airhack/) | 24th - 25th | Leeds |
 | [Accessible Tech Hackathon](http://accessibletech.co.uk/hackathon ) | | London |
 | **March** |
 | [Small Business Hackathon](http://www.smallbizhack.com/) | 4th - 5th | London |
