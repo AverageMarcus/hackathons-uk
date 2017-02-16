@@ -25,6 +25,7 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | [Hack24](http://www.hack24.co.uk/) | 18th - 19th | Nottingham |
 | **April** |
 | [UKGovHack](http://ukgovhack.com) | | London |
+| [Ixaris Open Payments Hack](https://www.eventbrite.co.uk/e/ixaris-open-payments-hack-tickets-31934538063) | 7th | London |
 | **May** |
 | **June** |
 | **July** |
