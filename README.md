@@ -28,7 +28,7 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | [UKGovHack](http://ukgovhack.com) | | London |
 | [Ixaris Open Payments Hack](https://www.eventbrite.co.uk/e/ixaris-open-payments-hack-tickets-31934538063) | 7th | London |
 | **May** |
- [LincolnHack](http://lincolnhack.org/) | 20th-21st | Lincoln |
+| [LincolnHack](http://lincolnhack.org/) | 20th - 21st | Lincoln |
 | **June** |
 | **July** |
 | **August** |
