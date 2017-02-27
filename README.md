@@ -21,6 +21,7 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | **March** |
 | [Small Business Hackathon](http://www.smallbizhack.com/) | 4th - 5th | London |
 | [#OpenDataHack @ECMWF](https://www.eventbrite.co.uk/e/opendatahack-ecmwf-beyond-weather-explore-creative-uses-of-open-data-tickets-28733656139) | 4th - 5th | Reading |
+| [Stockport Hackathon](http://www.digitalstockport.info/hackathon/) | 4th - 5th | Stockport |
 | [resin.io spring hackathon](https://www.eventbrite.com/e/resinio-spring-hackathon-registration-31266678477) | 11th | London |
 | [TravelSpirit Hackout](http://travelspirit.foundation/) | 17th - 19th | Manchester |
 | [AI+VR Rise Hackathon](https://www.eventbrite.com/e/aivr-rise-hackathon-tickets-30895935575) | 18th - 19th | London |
