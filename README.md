@@ -35,6 +35,7 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | **July** |
 | **August** |
 | **September** |
+| [HackTheMidlands](http://hackthemidlands.co.uk/) | 23rd - 24th | Birmingham |
 | **October** |
 | [Hackference](https://2017.hackference.co.uk/) | 21st - 22nd | Birmingham |
 | **November** |
