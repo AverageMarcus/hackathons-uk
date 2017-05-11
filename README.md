@@ -40,3 +40,4 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | [Hackference](https://2017.hackference.co.uk/) | 21st - 22nd | Birmingham |
 | **November** |
 | **December** |
+|[Sex Tech Hack](http://sexhack.tech/) | 16th - 17th | London |
