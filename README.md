@@ -33,6 +33,7 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | [LincolnHack](http://lincolnhack.org/) | 20th - 21st | Lincoln |
 | **June** |
 | **July** |
+| [IMCreate - Connected & Autonomous Vehicle Hackathon](http://imcreate.co.uk/) | 1st - 2nd | Milton Keynes |
 | **August** |
 | **September** |
 | [HackTheMidlands](http://hackthemidlands.co.uk/) | 23rd - 24th | Birmingham |
