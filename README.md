@@ -31,9 +31,13 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | [Ixaris Open Payments Hack](https://www.eventbrite.co.uk/e/ixaris-open-payments-hack-tickets-31934538063) | 7th | London |
 | **May** |
 | [LincolnHack](http://lincolnhack.org/) | 20th - 21st | Lincoln |
+| [NHS Hack Day](http://nhshackday.com/) | 27th - 28th | London |
 | **June** |
+| [HackXLR8](http://hackxlr8.bemyapp.com/) | 14th - 15th | London |
+| [Global AI Hackathon](http://ai.hackathon.com/) | 23rd - 24th | London |
 | **July** |
 | [IMCreate - Connected & Autonomous Vehicle Hackathon](http://imcreate.co.uk/) | 1st - 2nd | Milton Keynes |
+| [NHS Hack Day](http://nhshackday.com/) | 15th - 16th | Manchester |
 | **August** |
 | **September** |
 | [HackTheMidlands](http://hackthemidlands.co.uk/) | 23rd - 24th | Birmingham |
