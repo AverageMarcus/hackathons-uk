@@ -35,6 +35,7 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | **June** |
 | [HackXLR8](http://hackxlr8.bemyapp.com/) | 14th - 15th | London |
 | [Global AI Hackathon](http://ai.hackathon.com/) | 23rd - 24th | London |
+| [Mental Health Hackathon](https://www.eventbrite.co.uk/e/mental-health-hackathon-tickets-35005838405) | 29th | Birmingham |
 | **July** |
 | [IMCreate - Connected & Autonomous Vehicle Hackathon](http://imcreate.co.uk/) | 1st - 2nd | Milton Keynes |
 | [NHS Hack Day](http://nhshackday.com/) | 15th - 16th | Manchester |
