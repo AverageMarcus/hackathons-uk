@@ -46,5 +46,5 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | [Hackference](https://2017.hackference.co.uk/) | 21st - 22nd | Birmingham |
 | [Hack Manchester](https://www.hac100.com/event/hack-mcr-17/) | 28th - 29th | Manchester |
 | **November** |
+| [Sex Tech Hack](http://sexhack.tech/) | 25th - 26th | London |
 | **December** |
-| [Sex Tech Hack](http://sexhack.tech/) | 16th - 17th | London |
