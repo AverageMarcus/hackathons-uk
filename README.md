@@ -46,5 +46,11 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | [Hackference](https://2017.hackference.co.uk/) | 21st - 22nd | Birmingham |
 | [Hack Manchester](https://www.hac100.com/event/hack-mcr-17/) | 28th - 29th | Manchester |
 | **November** |
+| [AstonHack](https://astonhack.co.uk/) | 11th - 12th | Birmingham |
+| [EXIMPACT](http://exeterentrepreneurs.com/eximpact/) | 11th - 12th | Exeter |
+| [GreatUniHack](http://greatunihack.com/) | 11th - 12th | Manchester |
+| [HackSussex](http://www.hacksussex.co.uk/) | 11th - 12th | Brighton |
+| [BrumHack 7.0](https://www.brumhack.co.uk/) | 18th - 19th | Birmingham |
+| [HackKing's](http://hackkings.org/) | 25th - 26th | London |
 | [Sex Tech Hack](http://sexhack.tech/) | 25th - 26th | London |
 | **December** |
