@@ -54,5 +54,16 @@ Please send Pull requests to add events to the list. Please do not add any stude
 
 | Event | Date | Location |
 |---|---|---|
+| **January** |
+| **Feburary** |
+| **March** |
+| **April** |
+| **May** |
+| **June** |
+| **July** |
+| **August** |
+| **September** |
+| **October** |
 | **November** |
 | [LincolnHack](http://lincolnhack.org/) | 10th - 11th | Lincoln |
+| **December** |
