@@ -48,3 +48,4 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | **November** |
 | [Sex Tech Hack](http://sexhack.tech/) | 25th - 26th | London |
 | **December** |
+| [Hack The Police](http://hackthepolice.com/) | 9th - 10th | London |
