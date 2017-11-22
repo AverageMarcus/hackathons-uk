@@ -49,3 +49,21 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | [Sex Tech Hack](http://sexhack.tech/) | 25th - 26th | London |
 | **December** |
 | [Hack The Police](http://hackthepolice.com/) | 9th - 10th | London |
+
+
+# 2018
+
+| Event | Date | Location |
+|---|---|---|
+| **January** |
+| **Feburary** |
+| **March** |
+| **April** |
+| **May** |
+| **June** |
+| **July** |
+| **August** |
+| **September** |
+| **October** |
+| **November** |
+| **December** |
