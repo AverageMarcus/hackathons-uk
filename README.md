@@ -48,6 +48,7 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | **November** |
 | [Sex Tech Hack](http://sexhack.tech/) | 25th - 26th | London |
 | **December** |
+| [Hack The Police](http://hackthepolice.com/) | 9th - 10th | London |
 
 
 # 2018
@@ -55,6 +56,7 @@ Please send Pull requests to add events to the list. Please do not add any stude
 | Event | Date | Location |
 |---|---|---|
 | **January** |
+| [Climate Hack 2018](https://www.museums.cam.ac.uk/get-involved/climate-hack-2018) | 19th - 21st | Cambridge |
 | **Feburary** |
 | **March** |
 | **April** |
