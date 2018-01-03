@@ -4,10 +4,10 @@ Please send Pull requests to add events to the list. **Please do not add any stu
 
 # 2018
 
-| Event | Date | Location |
-|---|---|---|
+| Event | Date | Location | Twitter |
+|---|---|---|---|
 | **January** |
-| [Climate Hack 2018](https://www.museums.cam.ac.uk/get-involved/climate-hack-2018) | 19th - 21st | Cambridge |
+| [Climate Hack 2018](https://www.museums.cam.ac.uk/get-involved/climate-hack-2018) | 19th - 21st | Cambridge | |
 | **Feburary** |
 | **March** |
 | **April** |
