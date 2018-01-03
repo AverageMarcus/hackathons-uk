@@ -10,6 +10,7 @@ Please send Pull requests to add events to the list. **Please do not add any stu
 | [Climate Hack 2018](https://www.museums.cam.ac.uk/get-involved/climate-hack-2018) | 19th - 21st | Cambridge | |
 | **Feburary** |
 | **March** |
+| [Hack24](https://www.hack24.co.uk/) | 10th - 11th | Nottingham |
 | **April** |
 | **May** |
 | **June** |
