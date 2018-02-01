@@ -19,4 +19,5 @@ Please send Pull requests to add events to the list. **Please do not add any stu
 | **September** |
 | **October** |
 | **November** |
+| [LincolnHack](http://lincolnhack.org/) | 10th - 11th | Lincoln | @TechLincs |
 | **December** |
