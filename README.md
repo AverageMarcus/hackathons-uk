@@ -12,6 +12,7 @@ Please send Pull requests to add events to the list. **Please do not add any stu
 | **March** |
 | [Hack24](https://www.hack24.co.uk/) | 10th - 11th | Nottingham | @HackTwentyFour |
 | **April** |
+| [Leeds Hack](https://www.hac100.com/event/leeds-2018/) | 21st - 22nd | Leeds | @leedshack |
 | **May** |
 | **June** |
 | **July** |
